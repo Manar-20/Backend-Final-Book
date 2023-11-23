@@ -71,7 +71,9 @@ Open a pull request on the original repository.
 
 ## Additional Resources
 Trello Board
-Link to Trello Board ([https://trello.com/invite/b/2ahy7clL/ATTI9efab39ec5fdf5dc1d793c55ea0dc97eEB604443/mid-project](https://trello.com/invite/b/b6dgjHtA/ATTIbdcdec3c546af9beb5df438b668342105859148D/final-project))
+Link to Trello Board 
+https://trello.com/invite/b/b6dgjHtA/ATTIbdcdec3c546af9beb5df438b668342105859148D/final-project
+
 
 UML Diagrams
 
