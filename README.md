@@ -36,9 +36,12 @@ The security configuration ensures proper authentication and authorization for d
 Uses Spring Security for handling authentication and authorization.
 Configures custom filters for authentication and authorization logic.
 Defines rules for permitting access to various endpoints based on user roles.
-Usage
+## Usage
 The application provides a set of RESTful endpoints for interacting with the bookstore database. Users with different roles have varying levels of access to these endpoints. Refer to the controllers and security configuration for details on available endpoints and their respective permissions.
+## Note for Future Update (FUser Work):
+Users (FUser) can now make reviews by providing a comment and rating from 1 to 5. This functionality enhances the user experience by allowing them to express their opinions and provide valuable feedback.
 
+Users with the ROLE_USER role can utilize this feature, contributing to the collaborative review system.
 # Dependencies
 The project relies on the following key dependencies:
 
@@ -70,10 +73,9 @@ Open a pull request on the original repository.
 Trello Board
 Link to Trello Board (https://trello.com/invite/b/2ahy7clL/ATTI9efab39ec5fdf5dc1d793c55ea0dc97eEB604443/mid-project)
 UML Diagrams
-Class Diagram (![image](https://github.com/Manar-20/Backend-Final-Book/assets/111026905/bc79823f-a381-442d-ae3d-b6b87ae397c0)
-Use-case-diagram 
+Class Diagram (![image](https://github.com/Manar-20/Backend-Final-Book/assets/111026905/bc79823f-a381-442d-ae3d-b6b87ae397c0))
+Use-case-diagram (![image](https://github.com/Manar-20/Backend-Final-Book/assets/111026905/fed3ad9b-cd05-49b7-a11a-89733c6fe148))
 
 Project Presentation
+Link to Project Presentation (https://www.canva.com/design/DAF09NI0iTI/EyNwOPsOM8xklCFMJin2Dw/view?utm_content=DAF09NI0iTI&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-Project Presentation Link
-Link to Project Presentation
