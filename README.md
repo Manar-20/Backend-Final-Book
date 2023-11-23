@@ -78,6 +78,7 @@ UML Diagrams
 Class Diagram :
 
 ![image](https://github.com/Manar-20/Backend-Final-Book/assets/111026905/bc79823f-a381-442d-ae3d-b6b87ae397c0)
+
 Use-case-diagram : 
 
 ![image](https://github.com/Manar-20/Backend-Final-Book/assets/111026905/fed3ad9b-cd05-49b7-a11a-89733c6fe148)
