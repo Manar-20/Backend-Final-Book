@@ -60,12 +60,12 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
         http.authorizeRequests().antMatchers("/add-new-book").hasAuthority("ROLE_ADMIN");
         http.authorizeRequests().antMatchers("/update/{idBook}").hasAuthority("ROLE_ADMIN");
         http.authorizeRequests().antMatchers("/delete-book/{idBook}").hasAuthority("ROLE_ADMIN");
-        http.authorizeRequests().antMatchers("/byBookId/{idBook}").hasAuthority("ROLE_ADMIN");
+        http.authorizeRequests().antMatchers("/byBookId/{idBook}").permitAll();
 
 
         http.authorizeRequests().antMatchers("/add-rating/{userId}/{bookId}").hasAuthority("ROLE_USER");
         http.authorizeRequests().antMatchers("/addReview/{userId}/{bookId}").hasAuthority("ROLE_USER");
-        http.authorizeRequests().antMatchers("/byBookId/{idBook}").hasAuthority("ROLE_USER");
+//        http.authorizeRequests().antMatchers("/byBookId/{idBook}").hasAuthority("ROLE_USER");
 
 
         http.authorizeRequests().anyRequest().authenticated();
