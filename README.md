@@ -72,12 +72,17 @@ Open a pull request on the original repository.
 ## Additional Resources
 Trello Board
 Link to Trello Board (https://trello.com/invite/b/2ahy7clL/ATTI9efab39ec5fdf5dc1d793c55ea0dc97eEB604443/mid-project)
+
 UML Diagrams
+
 Class Diagram :
+
 ![image](https://github.com/Manar-20/Backend-Final-Book/assets/111026905/bc79823f-a381-442d-ae3d-b6b87ae397c0)
-Use-case-diagram
+Use-case-diagram : 
+
 ![image](https://github.com/Manar-20/Backend-Final-Book/assets/111026905/fed3ad9b-cd05-49b7-a11a-89733c6fe148)
 
-Project Presentation
+Project Presentation:
+
 Link to Project Presentation (https://www.canva.com/design/DAF09NI0iTI/EyNwOPsOM8xklCFMJin2Dw/view?utm_content=DAF09NI0iTI&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
